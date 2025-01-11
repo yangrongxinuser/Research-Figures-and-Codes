@@ -38,7 +38,7 @@ If you find this repository helpful:
 ## 📬 Contact
 
 Feel free to reach out if you have questions, suggestions, or collaborations in mind!  
-**Email:** [rongxinyang793@gmail.com]  
+**Email:** rongxinyang793@gmail.com 
 
 ---
 
